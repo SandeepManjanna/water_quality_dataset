@@ -36,11 +36,11 @@ I, [Sandeep Manjanna](https://www.seas.upenn.edu/~msandeep/), would like to ackn
 
 Please cite this git repository and our paper if you are using this dataset for any kind of research. Citation details are provided above.
 
-@inproceedings{malencia2022adaptive,
-  title={Adaptive Sampling of Latent Phenomena using Heterogeneous Robot Teams (ASLaP-HR)},
-  author={Malencia, Matthew and Manjanna, Sandeep and Hsieh, M Ani and Pappas, George and Kumar, Vijay},
-  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={},
-  year={2022},
-  organization={IEEE}
+@inproceedings{malencia2022adaptive,<br>
+  title={Adaptive Sampling of Latent Phenomena using Heterogeneous Robot Teams (ASLaP-HR)},<br>
+  author={Malencia, Matthew and Manjanna, Sandeep and Hsieh, M Ani and Pappas, George and Kumar, Vijay},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br>
+  pages={},<br>
+  year={2022},<br>
+  organization={IEEE}<br>
 }
