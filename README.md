@@ -35,3 +35,12 @@ Temperature in Celcius|  Ph | Conductivity (μS/cm)
 I, [Sandeep Manjanna](https://www.seas.upenn.edu/~msandeep/), would like to acknowledge the help from [Jeremy Mallette](https://mrcerealkiller.ninja/) in conducting field experiments at Lac Hertel for collecting this dataset. I would like to thank the administration at [Gault Nature Reserve](https://gault.mcgill.ca/en/) and McGill University for providing help with the facility and equipment.
 
 Please cite this git repository and our paper if you are using this dataset for any kind of research. Citation details are provided above.
+
+@inproceedings{malencia2022adaptive,
+  title={Adaptive Sampling of Latent Phenomena using Heterogeneous Robot Teams (ASLaP-HR)},
+  author={Malencia, Matthew and Manjanna, Sandeep and Hsieh, M Ani and Pappas, George and Kumar, Vijay},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={},
+  year={2022},
+  organization={IEEE}
+}
